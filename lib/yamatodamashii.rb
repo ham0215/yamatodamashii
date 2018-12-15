@@ -1,6 +1,12 @@
 require "yamatodamashii/version"
+require "yamatodamashii/moshi"
 
 module Yamatodamashii
-  class Error < StandardError; end
-  # Your code goes here...
+  def 真
+    true
+  end
+
+  def 偽
+    false
+  end
 end
