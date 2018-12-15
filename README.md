@@ -22,16 +22,16 @@ Or install it yourself as:
 
 使いたいクラスに大和魂を注入!!
 
-'''ruby
+```ruby
 class Hoge
   include Yamatodamashii
 
 end
-'''
+```
 
 ### if
 
-'''ruby
+```ruby
 # before
 if xxx
   'if'
@@ -49,7 +49,7 @@ end
 .または(zzz).だったら{'elsif2'}
 .それ以外だったら{'elsif2'}
 .。
-'''
+```
 
 ## Contributing
 
